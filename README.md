@@ -23,12 +23,14 @@ NewsSubscriber.java - Concrete observer that receives news updates.
 
 **Demo:** Interactive demo with news agency subscription system.
 
-<img width="662" height="287" alt="Screenshot 2025-10-01 222733" src="https://github.com/user-attachments/assets/7bf55763-6648-4c4f-8240-cc971d4528d9" />
-<img width="665" height="202" alt="Screenshot 2025-10-01 222757" src="https://github.com/user-attachments/assets/3ba3b341-02cb-45f4-82fa-416391e518bb" />
-<img width="659" height="172" alt="Screenshot 2025-10-01 222827" src="https://github.com/user-attachments/assets/defba4f8-7ca1-446c-bf71-db7128f14f4f" />
+<img width="662" height="287" alt="Screenshot 2025-10-01 222733" src="https://github.com/user-attachments/assets/a60fbc1d-8bd6-4fb6-8eb5-f53ac58bd796" />
+<img width="665" height="202" alt="Screenshot 2025-10-01 222757" src="https://github.com/user-attachments/assets/f978b6ca-3ed1-4700-8192-fde22593bbfb" />
+<img width="659" height="172" alt="Screenshot 2025-10-01 222827" src="https://github.com/user-attachments/assets/2a21a60c-71b1-4cdd-803d-833bee007325" />
+
 
 **Error Cases**
-<img width="662" height="172" alt="Screenshot 2025-10-01 223034" src="https://github.com/user-attachments/assets/0d7faa66-84ac-4b38-a3ba-4eeaf4ae1e9b" />
+
+<img width="662" height="172" alt="Screenshot 2025-10-01 223034" src="https://github.com/user-attachments/assets/1fb389f7-5753-4520-8e21-fc515eebb240" />
 
 
 **2. Strategy Pattern**
@@ -51,16 +53,16 @@ DivideStrategy.java - Concrete strategy for division operation with zero-divisio
 
 **Demo:** - Interactive calculator demo with dynamic strategy switching.
 
-<img width="670" height="364" alt="Screenshot 2025-10-01 223828" src="https://github.com/user-attachments/assets/6c256731-f822-4764-bd54-3765ad752cc7" />
-<img width="785" height="282" alt="Screenshot 2025-10-01 223902" src="https://github.com/user-attachments/assets/e4806683-e917-4f32-a6ab-ccee9986b4b0" />
-<img width="710" height="286" alt="Screenshot 2025-10-01 223919" src="https://github.com/user-attachments/assets/a6647a13-8445-43b7-be86-81b0ed851044" />
-<img width="733" height="290" alt="Screenshot 2025-10-01 223944" src="https://github.com/user-attachments/assets/39016e1a-40a2-48c5-9bd8-ab044a124d20" />
-<img width="810" height="281" alt="Screenshot 2025-10-01 224059" src="https://github.com/user-attachments/assets/380d8c6c-2b59-4da4-97d7-2b39d5c198ec" />
+<img width="670" height="364" alt="Screenshot 2025-10-01 223828" src="https://github.com/user-attachments/assets/27b5c11c-817f-4d59-be29-42c7d765c81b" />
+<img width="785" height="282" alt="Screenshot 2025-10-01 223902" src="https://github.com/user-attachments/assets/de302d5d-fdb2-45c6-8986-bea1bcb4824c" />
+<img width="710" height="286" alt="Screenshot 2025-10-01 223919" src="https://github.com/user-attachments/assets/cc926591-ea0d-4124-ab9c-dcdeacf0f0c8" />
+<img width="733" height="290" alt="Screenshot 2025-10-01 223944" src="https://github.com/user-attachments/assets/8554a366-1225-47f4-b888-0c0caf1d8bc6" />
+<img width="810" height="281" alt="Screenshot 2025-10-01 224059" src="https://github.com/user-attachments/assets/2d960e2d-1e3f-44eb-af71-754782a25ba4" />
 
 
 **Error Cases**
-<img width="751" height="289" alt="Screenshot 2025-10-01 224003" src="https://github.com/user-attachments/assets/2362883e-7545-4894-afce-cdb15424dcd3" />
 
+<img width="751" height="289" alt="Screenshot 2025-10-01 224003" src="https://github.com/user-attachments/assets/cb430281-98f7-4067-85ad-220d35d5568b" />
 
 
 # Creational Patterns
@@ -75,10 +77,12 @@ ComputerBuilder.java - Static inner builder class with fluent interface.
 
 **BuilderDemo:** - Interactive computer configuration demo.
 
-<img width="701" height="667" alt="Screenshot 2025-10-01 231839" src="https://github.com/user-attachments/assets/5724f18d-d2b8-4700-a2d5-90d21a72a3d9" />
+<img width="701" height="667" alt="Screenshot 2025-10-01 231839" src="https://github.com/user-attachments/assets/f69854cc-6ab8-4170-9e4b-c4649dc420ac" />
+
 
 **Error Cases**
-<img width="656" height="332" alt="Screenshot 2025-10-01 234458" src="https://github.com/user-attachments/assets/6b2d67e9-b181-4c2b-b20d-9d73a5b33fab" />
+
+<img width="656" height="332" alt="Screenshot 2025-10-01 234458" src="https://github.com/user-attachments/assets/8511c5cd-5899-4d52-aa81-397351d57bc2" />
 
 
 **2. Factory Pattern**
@@ -99,15 +103,15 @@ ShapeFactory.java - Factory class creating shape objects based on type.
 
 **Demo:** - Interactive shape creation and area calculation demo.
 
-<img width="672" height="344" alt="Screenshot 2025-10-01 224306" src="https://github.com/user-attachments/assets/7d1098b8-12ea-404e-b81b-a747ddb0e8e8" />
-<img width="733" height="286" alt="Screenshot 2025-10-01 224317" src="https://github.com/user-attachments/assets/d3731c56-b15e-451a-8491-14dc767c160c" />
-<img width="684" height="262" alt="Screenshot 2025-10-01 224325" src="https://github.com/user-attachments/assets/75237c4b-f34e-4a0c-832b-95aa47cf0ffe" />
-<img width="717" height="262" alt="Screenshot 2025-10-01 224337" src="https://github.com/user-attachments/assets/3b9f1348-de0c-4ec2-a07a-456cbdc3df0c" />
+<img width="672" height="344" alt="Screenshot 2025-10-01 224306" src="https://github.com/user-attachments/assets/63d0fb92-3472-4379-a200-6d22bc782bcc" />
+<img width="733" height="286" alt="Screenshot 2025-10-01 224317" src="https://github.com/user-attachments/assets/a6e91ab8-fb2b-405e-be02-f19807b62563" />
+<img width="684" height="262" alt="Screenshot 2025-10-01 224325" src="https://github.com/user-attachments/assets/7cec279c-0f63-46a3-9b2b-c3a428ad1baa" />
+<img width="717" height="262" alt="Screenshot 2025-10-01 224337" src="https://github.com/user-attachments/assets/e46c10ec-a5f1-4251-b727-df5af0722166" />
 
 
 **Error Cases**
-<img width="634" height="196" alt="Screenshot 2025-10-02 023004" src="https://github.com/user-attachments/assets/9e48c2aa-50af-4e6e-94f6-0b4e90f2dbf9" />
 
+<img width="634" height="196" alt="Screenshot 2025-10-02 023004" src="https://github.com/user-attachments/assets/b580eac2-ac43-4579-b677-4a87dac0d721" />
 
 
 # Structural Patterns
@@ -132,13 +136,15 @@ MediaAdapter.java - Adapter that bridges MediaPlayer and AdvancedMediaPlayer.
 
 **Demo:** - Interactive universal media player demo.
 
-<img width="670" height="314" alt="Screenshot 2025-10-01 224520" src="https://github.com/user-attachments/assets/a606df27-7f19-4862-8065-9c5dc264e838" />
-<img width="702" height="238" alt="Screenshot 2025-10-01 224530" src="https://github.com/user-attachments/assets/f5351c91-26b8-406f-b6d3-299528061a42" />
-<img width="700" height="228" alt="Screenshot 2025-10-01 224539" src="https://github.com/user-attachments/assets/60c19230-541b-4b90-8e2a-524819b62d63" />
-<img width="624" height="248" alt="Screenshot 2025-10-02 023519" src="https://github.com/user-attachments/assets/b3b90240-6625-49f8-9400-5e7ebaf093dc" />
+<img width="670" height="314" alt="Screenshot 2025-10-01 224520" src="https://github.com/user-attachments/assets/fa8f261e-0811-42f6-a0ab-578741e07373" />
+<img width="702" height="238" alt="Screenshot 2025-10-01 224530" src="https://github.com/user-attachments/assets/bd20a8d7-9776-41ba-a6ea-cc92cba61f09" />
+<img width="700" height="228" alt="Screenshot 2025-10-01 224539" src="https://github.com/user-attachments/assets/9afa5158-e1d5-45b0-a634-0fbc0d1044b9" />
+<img width="624" height="248" alt="Screenshot 2025-10-02 023519" src="https://github.com/user-attachments/assets/03ec2e15-6173-453a-8804-e1d6894028f9" />
+
 
 **Error Cases**
-<img width="803" height="208" alt="Screenshot 2025-10-01 224548" src="https://github.com/user-attachments/assets/69d71f2d-19a3-4924-8900-01e35bb0cbda" />
+
+<img width="803" height="208" alt="Screenshot 2025-10-01 224548" src="https://github.com/user-attachments/assets/4267a9bf-570a-4116-b5df-e3619bf0497a" />
 
 
 **2. Decorator Pattern**
@@ -161,16 +167,17 @@ WhippedCreamDecorator.java - Concrete decorator adding whipped cream.
 
 **Demo:** - Interactive coffee shop ordering system.
 
-<img width="670" height="450" alt="Screenshot 2025-10-01 224827" src="https://github.com/user-attachments/assets/fb6668b9-b8f0-4fda-bc59-b2abe4ff7caf" />
-<img width="669" height="315" alt="Screenshot 2025-10-01 224839" src="https://github.com/user-attachments/assets/7b32530f-2825-41ec-80b4-f910aacba04e" />
-<img width="822" height="315" alt="Screenshot 2025-10-01 224852" src="https://github.com/user-attachments/assets/fbee0bd2-5a73-4263-8fb3-4ef6335f30b1" />
-<img width="839" height="360" alt="Screenshot 2025-10-01 224917" src="https://github.com/user-attachments/assets/f84a2e24-12d4-4a77-a0bd-a605ca434c5a" />
-<img width="672" height="307" alt="Screenshot 2025-10-01 224956" src="https://github.com/user-attachments/assets/5461cd48-77bc-46a0-856b-de777d02aa26" />
-<img width="790" height="310" alt="Screenshot 2025-10-01 225022" src="https://github.com/user-attachments/assets/c0f4e5d8-e8ca-4232-bbe8-a7091e5aac43" />
+<img width="670" height="450" alt="Screenshot 2025-10-01 224827" src="https://github.com/user-attachments/assets/9ff5a581-2a4c-4208-9e6c-ca0710b38de8" />
+<img width="669" height="315" alt="Screenshot 2025-10-01 224839" src="https://github.com/user-attachments/assets/99241318-f0c4-4375-a27a-b232edd8a6af" />
+<img width="822" height="315" alt="Screenshot 2025-10-01 224852" src="https://github.com/user-attachments/assets/ee384fe2-bdc9-4535-a77d-1b8450e09bc8" />
+<img width="839" height="360" alt="Screenshot 2025-10-01 224917" src="https://github.com/user-attachments/assets/efa1d788-7cdb-415a-98f0-ffe70e6514c4" />
+<img width="672" height="307" alt="Screenshot 2025-10-01 224956" src="https://github.com/user-attachments/assets/ac78b5ca-1af5-4d4b-82ca-ff44a673444d" />
+<img width="790" height="310" alt="Screenshot 2025-10-01 225022" src="https://github.com/user-attachments/assets/fc5adf62-6879-44a4-95dd-99b38850054e" />
 
 
 **Error Cases**
-<img width="588" height="255" alt="Screenshot 2025-10-02 023257" src="https://github.com/user-attachments/assets/5ba5e9a1-52a0-4c50-a3da-30b2d5b04d9a" />
+
+<img width="588" height="255" alt="Screenshot 2025-10-02 023257" src="https://github.com/user-attachments/assets/44ea0f48-d10d-4258-81a6-f6333ee00f4f" />
 
 
 # How to Run
@@ -245,35 +252,34 @@ java virtualclassroom.VirtualClassroomApp
 Menu Options (Virtual Classroom)
 
 Add Classroom - Create new classroom.
-<img width="674" height="306" alt="Screenshot 2025-10-02 003737" src="https://github.com/user-attachments/assets/6b098578-e883-45b0-a5e4-77599f4a34f9" />
 
+<img width="674" height="306" alt="Screenshot 2025-10-02 003737" src="https://github.com/user-attachments/assets/80760959-ba20-481c-bb57-75d39ec17f6a" />
 
 Add Student - Enroll student in classroom.
-<img width="709" height="312" alt="Screenshot 2025-10-02 003755" src="https://github.com/user-attachments/assets/5bb19599-536c-4a9c-93d4-2812559fb704" />
 
+<img width="709" height="312" alt="Screenshot 2025-10-02 003755" src="https://github.com/user-attachments/assets/986d169c-e212-4f68-ad1d-3e8e51177f78" />
 
 Schedule Assignment - Assign work to classroom.
-<img width="1115" height="373" alt="Screenshot 2025-10-02 003910" src="https://github.com/user-attachments/assets/dfd113b6-b591-4c36-82dd-d5d7a75d1dac" />
 
+<img width="1115" height="373" alt="Screenshot 2025-10-02 003910" src="https://github.com/user-attachments/assets/e3ab6d28-e9e9-4d87-9386-f68e7745e864" />
 
 Submit Assignment - Student submits assignment.
-<img width="858" height="283" alt="Screenshot 2025-10-02 003936" src="https://github.com/user-attachments/assets/37229f0a-fc33-41d6-87ef-f62aadad8c5d" />
 
+<img width="858" height="283" alt="Screenshot 2025-10-02 003936" src="https://github.com/user-attachments/assets/2c6a3942-b720-42fd-938e-d0a693ccf2a0" />
 
 List Classrooms - View all classrooms with details.
-<img width="827" height="427" alt="Screenshot 2025-10-02 003957" src="https://github.com/user-attachments/assets/33de1563-25d9-4159-9562-a31a0b14b568" />
 
+<img width="827" height="427" alt="Screenshot 2025-10-02 003957" src="https://github.com/user-attachments/assets/4f7e132e-d67d-476e-9edf-c782cb75e933" />
 
 Exit - Close application.
-<img width="698" height="295" alt="Screenshot 2025-10-02 004205" src="https://github.com/user-attachments/assets/f2825098-762b-4312-af4b-8599283f57db" />
+
+<img width="698" height="295" alt="Screenshot 2025-10-02 004205" src="https://github.com/user-attachments/assets/6f666186-eaf2-4f8c-8e2f-3ca7cd261efe" />
 
 
 **Error Cases**
 
-<img width="720" height="223" alt="Screenshot 2025-10-02 004013" src="https://github.com/user-attachments/assets/4ec4c2ed-4e93-40ea-84eb-3288e9dc504a" />
-
-<img width="726" height="343" alt="Screenshot 2025-10-02 004046" src="https://github.com/user-attachments/assets/49d7029f-cc24-4e51-a183-89ce159900d7" />
-
+<img width="720" height="223" alt="Screenshot 2025-10-02 004013" src="https://github.com/user-attachments/assets/ff7759b4-545a-43ce-abed-ad94332ae9a0" />
+<img width="726" height="343" alt="Screenshot 2025-10-02 004046" src="https://github.com/user-attachments/assets/17580a3d-3a85-4fbd-bc27-78d814d8357e" />
 
 
 # Technical Highlights
